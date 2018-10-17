@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: copyDatabase_demo
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: lick
+Implementation-Vendor-Id: com.lick
+Build-Jdk: 1.8.0_172
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/copyDatabase_demo
+Created-By: Maven Integration for Eclipse
+
